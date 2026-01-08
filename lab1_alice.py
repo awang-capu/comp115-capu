@@ -51,8 +51,8 @@ print("Hello, World!")
 
 #print("The area of a rectangle with length 3 and width 4 is", 3 + 4)
 
-
 #---------------------------------------------------------
+# Pre-exercise: Set up your GitHub, following https://elearn.capu.ca/pluginfile.php/3932839/mod_resource/content/1/GitHub%20Setup.pdf
 # Exercise 4 (30 marks) - Write a letter to your instructor
 # Firstly, uncomment the lines from 61 to 80.
 # Then change the variable values from line 61 to 65 to your info. 
