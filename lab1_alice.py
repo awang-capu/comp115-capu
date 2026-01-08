@@ -1,7 +1,7 @@
 """
 Lab 1 - First Impression of Python
 (100 marks in total, including
-3 exercises + submission (10 marks))
+4 exercises + submission (10 marks))
 
 Your Name 😍:
 Lab Due: 5:00pm on Jan. 09, 2026
