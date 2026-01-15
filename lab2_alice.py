@@ -60,8 +60,8 @@ Exercise 2:
 # so that it calculates the correct average of all marks.
 # ---------------------------------------------------------
 
-marks = [80.5, 85.3, 76.5, 79.8]  # A list of a student's first-term course marks
-mark_average = (marks[0] + marks[1]) / 2  # Correct to get the average of all marks 78.5
+marks = [80.5, 85.3, 76.5, 79.7]  # A list of a student's first-term course marks
+mark_average = (marks[0] + marks[1]) / 2  # Correct to get the average of all marks 80.5
 print(f"Exercise 3: The average mark is {mark_average}!")
 
 
