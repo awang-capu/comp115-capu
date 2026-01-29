@@ -152,7 +152,7 @@ def draw_picture():
 
     Steve = turtle.Turtle()
     Steve.speed(0)
-    Albert.color('yellow')
+    Steve.color('yellow')
     draw_special5(Steve, 100, 10)
 
     Barry = turtle.Turtle()
