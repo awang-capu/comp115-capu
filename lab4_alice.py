@@ -136,7 +136,7 @@ HINT:
 You may use 2 lists to avoid the if statement, which is recommended:
         ...
         colors = ['white', 'yellow', 'blue', 'orange', 'red']
-        decrease_amounts = [4, 10, 5, 19, 20]
+        decrease_amounts = [4, 5, 10, 19, 20]
         for i in range(len(colors)):
             t.color(colors[i])
         ...
