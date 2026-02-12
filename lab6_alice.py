@@ -108,17 +108,16 @@ def temp_category(temps):
 
 
 
-
 """
 Exercise 6 (10 marks)
 
 Write a function mult_category(nums) that categorizes
 each number in the list according to the following rules:
 
-Multiple of 2 → append 2
-Multiple of 3 → append 3
-Multiple of 5 → append 5
-If a number is not a multiple of 2, 3, or 5 → append the letter "O"
+if the number is a multiple of 2 → append 2
+elif the number is a multiple of 3 → append 3
+elif the number is a multiple of 5 → append 5
+otherwise, a number is not a multiple of 2, 3, or 5 → append the letter "O"
 
 Return a list of the categories.
 """
