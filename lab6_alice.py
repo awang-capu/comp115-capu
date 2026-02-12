@@ -147,9 +147,21 @@ def reverse_list(nums):
 """
 Exercise 8 (10 marks)
 
-Implement a function to remove duplicates from a list.
+Implement a function that returns a new list with
+all duplicate values removed from the input list.
+The order of the first occurrences should be preserved.
 
+Hint:
+
+The expression 
+num in nums
+is True if num exists in the list nums.
+
+The expression 
+num not in nums
+is True if num does not exist in the list nums.
 """
+
 def remove_duplicates(nums):
     pass
 
