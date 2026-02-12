@@ -1,6 +1,6 @@
 """
 Lab 6 - Selections and Iterations 
-(100 marks in total, including 7 exercises)
+(100 marks in total, including 10 exercises)
 
 Author:  <your name>
 Due Date: This Friday (Feb. 13) 5pm.
