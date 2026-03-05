@@ -203,9 +203,19 @@ E.g.,
 line = '2024-03-05 14:32:15 [ERROR] database.py Connection timeout after 30s'
 parse_log_line(line) == ('2024-03-05 14:32:15', 'ERROR', 'database.py', 'Connection timeout after 30s')
 
-Hint: str.split() returns a list of strings, split by default (whitespace).
+Hints:
+1. str.split() returns a list of strings, split by default (whitespace).
 "hello world python".split()
 # Returns: ['hello', 'world', 'python']
+
+2. string concatenation
+'I like ' + 'you'
+# Returns 'I like you'
+
+3. str.join()
+list = ['Hello, ', 'world!']
+' '.join(list)
+# Returns 'Hello,  world!'
 """
 
 def parse_log_line(line):
