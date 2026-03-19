@@ -2,7 +2,7 @@
 Lab 9 - DNA
 
 Name: 
-Due Date: Mar. 20, 2023, 5pm
+Due Date: Mar. 20, 2026, 5pm
 
 This lab contains 3 small exercises in total. The objectives are:
 1. Review how to utilize the different data types in different scenarios, such as dict, strings.
